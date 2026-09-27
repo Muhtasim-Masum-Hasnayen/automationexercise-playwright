@@ -3,7 +3,7 @@
 <p align="center">
   <img src="automation_video.gif" alt="Playwright Automation Test Execution" width="500">
 </p>
-## Objective\n
+Objective : 
 Automate the required assessment scenario:
 1. Open Automation Exercise.
 2. Navigate to Login.
