@@ -1,5 +1,7 @@
 # Automation Exercise – Playwright Login Automation
+## 🎬 Automation Demo
 
+![Automation Demo](automation_video.gif)
 ## Objective
 Automate the required assessment scenario:
 1. Open Automation Exercise.
