@@ -9,7 +9,7 @@ export default defineConfig({
     baseURL: 'https://www.automationexercise.com',
     trace: 'on-first-retry',
     screenshot: 'only-on-failure',
-    video: 'retain-on-failure'
+    video: 'on'
   },
   projects: [
     { name: 'chromium', use: { ...devices['Desktop Chrome'] } }
