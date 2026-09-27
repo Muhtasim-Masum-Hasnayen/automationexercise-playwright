@@ -3,14 +3,16 @@
 <p align="center">
   <img src="automation_video.gif" alt="Playwright Automation Test Execution" width="500">
 </p>
-## Objective
+## Objective\n
 Automate the required assessment scenario:
 1. Open Automation Exercise.
 2. Navigate to Login.
 3. Enter a manually registered email/password.
 4. Submit login.
 5. Verify successful login.
-
+<p align="center">
+  <img src="ss.png" alt="Playwright Automation Test Execution" width="500">
+</p>
 ## Tech Stack
 - Playwright
 - JavaScript
